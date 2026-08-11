@@ -8,4 +8,4 @@ And it samples sarcasms like:
 - What do you call a woman accounted? A prostitute.
 - A well what meal. Chicken Jobs Drymple.
 <br>
-yet it really struggle with grammar and exact word spelling
+yet it really struggle with grammar and exact word spelling, because it tries to generate words like as it's a character language modeling `CLM`.
