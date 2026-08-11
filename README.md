@@ -7,5 +7,5 @@ The size of this model is `3-layers` with `250k parameters` and it results in lo
 And it samples sarcasms like:
 - What do you call a woman accounted? A prostitute.
 - A well what meal. Chicken Jobs Drymple.
-
+<br>
 yet it really struggle with grammar and exact word spelling
