@@ -1,5 +1,7 @@
 # ImSarcasist-v1
 
+<!--https://github.com/Ordnmash/portfolio-website/blob/62690039fc21b24d5af17b659d3f5814d382e064/ImSarcasist.png-->
+
 ImSarcasist is a Language modeling NN, built to learn sarcasic humor across the dataset. It uses `LSTMs` architecture for version 1. <br>
 With LSTMs it's able to keep memory and context across longer sentences which allows the model to learn further sentences. <br>
 <b>
