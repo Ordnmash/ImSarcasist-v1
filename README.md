@@ -2,7 +2,7 @@
 
 <!--https://github.com/Ordnmash/portfolio-website/blob/62690039fc21b24d5af17b659d3f5814d382e064/ImSarcasist.png-->
 <p align="center">
-  <img src="[gitmore_logo.png](https://github.com/Ordnmash/portfolio-website/blob/62690039fc21b24d5af17b659d3f5814d382e064/ImSarcasist.png)" width="800" height="400" alt="ImSarcasist image">
+  <img src="https://github.com/Ordnmash/portfolio-website/blob/62690039fc21b24d5af17b659d3f5814d382e064/ImSarcasist.png" width="800" height="400" alt="ImSarcasist image">
 </p>
 
 ImSarcasist is a Language modeling NN, built to learn sarcasic humor across the dataset. It uses `LSTMs` architecture for version 1. <br>
