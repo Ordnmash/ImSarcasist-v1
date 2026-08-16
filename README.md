@@ -7,7 +7,7 @@
 
 ImSarcasist is a Language modeling NN, built to learn sarcasic humor across the dataset. It uses `LSTMs` architecture for version 1. <br>
 With LSTMs it's able to keep memory and context across longer sentences which allows the model to learn further sentences. <br>
-<hr>
+<br>
 The size of this model is `3-layers` with `250k parameters` and it results in loss roughly `train_loss = 1.412604` and `val_loss = 1.446190`.<br>
 And it samples sarcasms like:
 - What do you call a woman accounted? A prostitute.
