@@ -15,5 +15,4 @@ And it samples sarcasms like:
 - A well what meal. Chicken Jobs Drymple.
 <br>
 yet it really struggles with grammar and exact word spelling, because it tries to generate words like as it's a character language modeling `CLM`. <br>
-
 Because there's zero sense of overfitting we can actually push this network to more deeper network to increase its performance!
